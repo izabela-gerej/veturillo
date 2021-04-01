@@ -1,7 +1,7 @@
 # mapa_rowerów_veturillo
 Program pozwala na wyszukanie lokalizacji stacji rowerowych w Warszawie.
 
-##instalacja
+## instalacja
 ```bash
 git clone https://github.com/izabela-gerej/veturillo
 ```
